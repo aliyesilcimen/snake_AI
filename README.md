@@ -1,5 +1,5 @@
 # snake_AI
-A snake game to play and a machine learning application for the game using NEAT.
+A snake game to play and a machine learning application using NEAT.
 
 "Snake_to_Play.py" is for playing the game. "Snake_AI.py" is the machine learning application using NEAT.
 Before running, you should install "pygame" and "python-neat". Also do not forget to include "configuration.txt" file in the project directory.
